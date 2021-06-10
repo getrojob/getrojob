@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi, I'm Getulio! :D
 
-<!--
-**getrojob/getrojob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/getrojob)](https://github.com/getrojob)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/getuliorodriguez/)](https://www.linkedin.com/in/getuliorodriguez/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/getrojob)](https://twitter.com/getrojob)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About me
+I'm a {backend, frontend and mobile} developer.
+
+- [Courses](https://#) 👨🏼‍🏫 - It's are technical courses on many technologies, such as C#, Flutter, Jscript, Git and more
+- [Blog](https://#) ✍🏼 - I'm write about many things.
+- [Website](#) 💻 - Working on it.
