@@ -57,7 +57,7 @@ I'm a {backend, frontend and mobile} developer.
 </p>
   </div>
   <div>
-<p align="right">  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=getrojob&layout=compact&theme=algolia" />
+<p align="left">  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=getrojob&layout=compact&theme=algolia" />
 </p> 
   </div>
   </div>
