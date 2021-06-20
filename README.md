@@ -45,7 +45,7 @@ I'm a {backend, frontend and mobile} developer.
   
 </p>
 <br><br><br>
-<div>
+<div style='display: flex;align-items: stretch'>
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
