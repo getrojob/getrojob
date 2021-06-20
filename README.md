@@ -50,7 +50,11 @@ I'm a {backend, frontend and mobile} developer.
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api?username=getrojob&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=dracula"
+      src="https://github-readme-stats.vercel.app/api?username=getrojob&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=algolia"
     />
   </a>
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=getrojob&layout=compact&theme=algolia" />
 </p>
