@@ -45,6 +45,7 @@ I'm a {backend, frontend and mobile} developer.
   
 </p>
 <br><br><br>
+<div>
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
@@ -55,6 +56,6 @@ I'm a {backend, frontend and mobile} developer.
   </a>
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=getrojob&layout=compact&theme=algolia" />
+<p align="right">  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=getrojob&layout=compact&theme=algolia" />
 </p>
+  </div>
