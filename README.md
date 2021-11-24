@@ -8,7 +8,7 @@
 ### About me
 I'm a {backend, frontend and mobile} developer.
 
-- [Courses](https://#) 👨🏼‍🏫 - It's are technical courses on many technologies, such as C#, Flutter, Jscript, Git and more
+- [Courses](https://#) 👨🏼‍🏫 - It's are technical courses on many technologies, such as C#, Kotlin, Jscript, Git and more
 - [Blog](https://#) ✍🏼 - I'm write about many things.
 - [Website](#) 💻 - Working on it.
 
