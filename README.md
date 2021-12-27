@@ -17,21 +17,15 @@ I'm a {backend, frontend and mobile} developer.
 <p>
 <img align="left" alt="HTML" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="css" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-</p>
-<p>
+<img align="left" alt="JavaScript" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="React" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Redux" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
-
 <img align="left" alt="Git" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" height="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Vim" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />
 <img align="left" alt="azure" width="26" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"  />
 <img align="left" alt="docker" width="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"  />
-  </p></br>
-<p>
-  
 <img align="left" alt="bootstrap" width="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"  /> 
 <img align="left" alt="csharp" width="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/> 
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
@@ -43,9 +37,7 @@ I'm a {backend, frontend and mobile} developer.
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="postman" width="26" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
 <img align="left" alt="xamarin" width="26" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg"  />
-<img align="left" alt="android" width="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" />
-  
-  
+<img align="left" alt="android" width="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" /> 
 </p>
 <br><br><br>
 
