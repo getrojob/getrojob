@@ -29,7 +29,7 @@ I'm a {backend, frontend and mobile} developer.
 <img align="left" alt="Vim" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />
 <img align="left" alt="azure" width="26" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"  />
 <img align="left" alt="docker" width="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"  />
-  </p>
+  </p></br>
 <p>
   
 <img align="left" alt="bootstrap" width="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"  /> 
