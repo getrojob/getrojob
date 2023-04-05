@@ -8,10 +8,6 @@
 ### About me
 I'm a {backend, frontend and mobile} developer.
 
-- [Courses](https://#) 👨🏼‍🏫 - It's are technical courses on many technologies, such as C#, Kotlin, Jscript, Git and more
-- [Blog](https://#) ✍🏼 - I'm write about many things.
-- [Website](#) 💻 - Working on it.
-
 <div>
 <a href="https://github.com/getrojob/getrojob">
   <img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=getrojob" />
